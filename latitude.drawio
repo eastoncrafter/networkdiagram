@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T01:39:01.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="1-UM5bMB-xEQHVlbFVDB" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-26T01:48:40.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="D85_2oySdsXcgMR45g62" version="16.6.4" type="github">
   <diagram id="cc7d4Ejt2siy6WtWfeSm" name="Page-1">
     <mxGraphModel dx="2370" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="1">
       <root>
@@ -28,16 +28,16 @@
             <mxPoint x="160" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kbx4R_Jm1ytUXJJudEib-6" value="Ryan&#39;s Network&lt;br&gt;Asus router" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="100" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="kbx4R_Jm1ytUXJJudEib-6" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Ryan&#39;s Network&lt;br&gt;Asus router&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="80" y="230" width="200" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="kbx4R_Jm1ytUXJJudEib-8" value="Tom&#39;s Network&lt;br&gt;Hardware status unknown" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="kbx4R_Jm1ytUXJJudEib-8" value="Tom&#39;s Network&lt;br&gt;Hardware status unknown" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="450" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kbx4R_Jm1ytUXJJudEib-9" value="Latitude&#39;s Network" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="kbx4R_Jm1ytUXJJudEib-9" value="Latitude&#39;s Network" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1220" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kbx4R_Jm1ytUXJJudEib-12" value="Nate&#39;s network&lt;br&gt;ubiquity" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="kbx4R_Jm1ytUXJJudEib-12" value="Nate&#39;s network&lt;br&gt;ubiquity" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1580" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kbx4R_Jm1ytUXJJudEib-14" value="Gaming computer&lt;br&gt;(hub of Ryan&#39;s Network)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
