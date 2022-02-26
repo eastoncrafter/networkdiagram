@@ -1,1 +1,13 @@
-<mxfile host="Electron" modified="2022-02-25T14:57:56.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/16.5.1 Chrome/96.0.4664.110 Electron/16.0.7 Safari/537.36" etag="hrcLW1_h-vpB1T0IfuwZ" version="16.5.1" type="device"><diagram id="cc7d4Ejt2siy6WtWfeSm" name="Page-1">jZJNT8MwDIZ/TY9IbaON7krZQEgc0JCGuGWN20SkS5V5tOXX463ul6ZJO8V5/JH4tQORls2Ll5V+dwpsEIeqCcRzEMdRFMZ0nEnbkWS56EDhjeKgEWzNHzAMmZ6MguMsEJ2zaKo5zNzhABnOmPTe1fOw3Nn5q5Us4ApsM2mv6c4o1NzFIhz5K5hC49Awe0rZBzM4aqlcPUFiHYjUO4edVTYp2LN4vS5d3uaGd/iYhwPek7D7xlX7sVu97dP463NjVXmqH7jKr7Qnbpg/i22vAFUhsenyVGuDsK1kdvbUNG9iGktLt4jM3FibOuv8JU8oCUmeET+idz8w8SyzBPY5efhx8AjNza6iQStaMnAloG8phBNEv0+8X4+sdj0OK+onoCeDSphJ3o9iqDxKSAar2F/HaV18k50X638=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-26T00:59:07.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="WzxFwwAQMmpaVLCm_VB9" version="16.6.4" type="github">
+  <diagram id="cc7d4Ejt2siy6WtWfeSm" name="Page-1">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WZt9yQW9JbC2XTFldmuw-1" value="THE INTERNETT" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="365" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
