@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T01:04:54.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="phK2JMdUiRSN_6qPx4Bz" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-26T01:21:09.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="K9UwwzgA2faAZAE_o4rE" version="16.6.4" type="github">
   <diagram id="cc7d4Ejt2siy6WtWfeSm" name="Page-1">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,18 +9,25 @@
             <mxPoint x="160" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kbx4R_Jm1ytUXJJudEib-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WZt9yQW9JbC2XTFldmuw-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="425" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kbx4R_Jm1ytUXJJudEib-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WZt9yQW9JbC2XTFldmuw-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="270" as="targetPoint" />
+            <mxPoint x="720" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="110" />
+              <mxPoint x="700" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbx4R_Jm1ytUXJJudEib-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WZt9yQW9JbC2XTFldmuw-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WZt9yQW9JbC2XTFldmuw-1" value="THE INTERNETT" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="365" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kbx4R_Jm1ytUXJJudEib-6" value="Ryan&#39;s Network&lt;br&gt;Asus router" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
